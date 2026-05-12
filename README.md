@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Как со мной связаться
-* **Telegram:** [Твоя ссылка]
-* **LinkedIn:** [Твоя ссылка]
+* **Telegram:** @f1yuu
+* **LinkedIn:** www.linkedin.com/in/nazar-spirin-516644301
