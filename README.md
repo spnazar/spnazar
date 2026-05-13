@@ -1,33 +1,6 @@
 <div align="center">
 
-```txt
-   _________  ____  _____  ___    ____  ___    ____ 
-  / ___/ __ \/ __ \/  _/ |/ / |  / / / / / |  / / /
- (__  ) /_/ / / / // //    /| | / / /_/ /| | / / / 
-/____/ .___/_/ /_/___/_/|_/ | |/ /\__,_/ | |/ /_/  
-    /_/                       |___/      |___/     
-```
-
-<h1 style="margin-bottom:0;color:#e6edf3;font-family:'JetBrains Mono',monospace;">
-spnazar
-</h1>
-
-<p style="margin-top:8px;color:#8b949e;font-family:'Segoe UI',sans-serif;">
-строю системы, которые не падают
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=backend+%E2%80%A2+devops+%E2%80%A2+open-source;writing+code+that+survives+production;currently+looking+for+an+open-source+team" />
-
-<br/>
-<br/>
-
-<a href="https://t.me/spnazar">
-  <img src="https://img.shields.io/badge/%3E__telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" />
-</a>
-
-<a href="https://github.com/spnazar">
-  <img src="https://img.shields.io/badge/%24_npx_spnazar-0D1117?style=for-the-badge&logo=github&logoColor=2ee5a0&labelColor=0D1117" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:00F5FF,100:7C3AED&text=SPNAZAR&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Backend%20Engineer%20%7C%20SysAdmin%20%7C%20Automation&descAlignY=60&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -35,36 +8,81 @@ spnazar
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Golang+%7C+PostgreSQL+%7C+Docker;SysAdmin+%26+Automation+Engineer;Linux+Workstation+Enthusiast;Building+Scalable+Systems..." />
 
-## /about_me
+</div>
+
+---
+
+# <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Welcome to my workstation
 
 ```bash
-> whoami
+┌──(spnazar㉿github)-[~/workspace]
+└─$ whoami
 
-name: spnazar
-focus: backend systems & infrastructure
-stack: go / python / docker / kubernetes
-status: looking for open-source team
-philosophy: clean architecture > hype
+Backend Developer
+SysAdmin
+Automation Engineer
+
+┌──(spnazar㉿github)-[~/stack]
+└─$ cat technologies.txt
+
+> Golang
+> PostgreSQL
+> Docker
+> Python
+> PHP
+> React
+> Vue
+> Linux
+> Bash
+> Nginx
+
+┌──(spnazar㉿github)-[~/status]
+└─$ uptime
+
+Building scalable backend systems...
+Automating infrastructure...
+Learning something new every day...
 ```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,php,react,vue,docker,postgres,linux,bash,git,nginx,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🧠 Backend & Infrastructure
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Backend
+- Golang APIs
+- REST Services
+- Automation Scripts
+- Microservices
+- Backend Architecture
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## /currently
-
-```bash
-$ currently
-
-→ building reliable backend services
-→ improving devops workflows
-→ contributing to open-source
-→ learning distributed systems
-```
+### 🖥 Infrastructure
+- Linux Servers
+- Docker Containers
+- PostgreSQL
+- Nginx
+- System Administration
 
 </td>
 </tr>
@@ -74,70 +92,85 @@ $ currently
 
 ---
 
-## /tech_stack
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### Frontend
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=2ee5a0&labelColor=0D1117"/>
-
-### Backend
-
-<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58a6ff&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=a371f7&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8993be&labelColor=0D1117"/>
-
-### DevOps
-
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58a6ff&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=58a6ff&labelColor=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-## /github_stats
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=2ee5a0&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" />
+<img src="https://streak-stats.demolab.com?user=spnazar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF"/>
 
 </div>
 
 ---
 
-## /activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spnazar&bg_color=0d1117&color=58a6ff&line=2ee5a0&point=a371f7&hide_border=true" />
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-## /snake
+# 🖥 Current Environment
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/spnazar/spnazar/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-$ echo "systems should be boring in production"
+```yaml
+OS: Linux
+Editor: VS Code
+Terminal: bash
+Architecture: Backend / DevOps
+Focus: Scalability & Automation
+Status: Online
 ```
 
-<p style="color:#6e7681;font-family:'JetBrains Mono',monospace;">
-minimal dark • cyberpunk inspired • glassmorphism mood
-</p>
+---
+
+# 🌌 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_TELEGRAM_LINK">
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00F5FF"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+> sudo systemctl status motivation.service
+
+● motivation.service - Personal Motivation
+     Loaded: loaded (/etc/systemd/system/motivation.service)
+     Active: active (running)
+
+"Keep building. Keep learning."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00F5FF,100:7C3AED"/>
 
 </div>
