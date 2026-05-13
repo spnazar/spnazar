@@ -1,77 +1,143 @@
-<!---
-  GitHub Profile: spnazar
-  Style: Minimal Dark + Terminal + subtle glass
-  No gradients, no waves, no emoji columns
--->
+<div align="center">
 
-<p align="center">
-  <samp>
-    <a href="https://github.com/spnazar">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&repeat=false&width=380&lines=%24+whoami" alt="$ whoami">
-    </a>
-    <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=700&color=9CDB6F&center=true&vCenter=true&repeat=true&width=450&lines=spnazar;%3E+currently+seeking+open-source+team;%3E+building+resilient+systems" alt="typing">
-  </samp>
+```txt
+   _________  ____  _____  ___    ____  ___    ____ 
+  / ___/ __ \/ __ \/  _/ |/ / |  / / / / / |  / / /
+ (__  ) /_/ / / / // //    /| | / / /_/ /| | / / / 
+/____/ .___/_/ /_/___/_/|_/ | |/ /\__,_/ | |/ /_/  
+    /_/                       |___/      |___/     
+```
+
+<h1 style="margin-bottom:0;color:#e6edf3;font-family:'JetBrains Mono',monospace;">
+spnazar
+</h1>
+
+<p style="margin-top:8px;color:#8b949e;font-family:'Segoe UI',sans-serif;">
+строю системы, которые не падают
 </p>
 
-<pre align="center">
-┌─────────────────────────────────────────┐
-│  @spnazar                               │
-│  ▸ systems architect                    │
-│  ▸ open-source first                    │
-└─────────────────────────────────────────┘
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=backend+%E2%80%A2+devops+%E2%80%A2+open-source;writing+code+that+survives+production;currently+looking+for+an+open-source+team" />
 
-<div align="center">
-  <samp>
-    ───  <strong style="color:#a371f7">CURRENT MISSION</strong>  ───<br>
-    Building resilient open-source tools<br>
-    Looking for a team → <strong style="color:#58a6ff">collab on OSS</strong><br>
-    Latest focus: distributed systems + k8s
-  </samp>
+<br/>
+<br/>
+
+<a href="https://t.me/spnazar">
+  <img src="https://img.shields.io/badge/%3E__telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/spnazar">
+  <img src="https://img.shields.io/badge/%24_npx_spnazar-0D1117?style=for-the-badge&logo=github&logoColor=2ee5a0&labelColor=0D1117" />
+</a>
+
 </div>
 
-<br>
+---
 
-<h3 align="center"><samp>//_ tech stack _//</samp></h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58a6ff">
-  <img src="https://img.shields.io/badge/Vue-0D1117?style=flat-square&logo=vuedotjs&logoColor=2ee5a0">
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=58a6ff">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2ee5a0">
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=a371f7">
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58a6ff">
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=2ee5a0">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## /about_me
+
+```bash
+> whoami
+
+name: spnazar
+focus: backend systems & infrastructure
+stack: go / python / docker / kubernetes
+status: looking for open-source team
+philosophy: clean architecture > hype
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## /currently
+
+```bash
+$ currently
+
+→ building reliable backend services
+→ improving devops workflows
+→ contributing to open-source
+→ learning distributed systems
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## /tech_stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58a6ff&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=2ee5a0&labelColor=0D1117"/>
+
+### Backend
+
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=58a6ff&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=a371f7&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8993be&labelColor=0D1117"/>
+
+### DevOps
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58a6ff&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=58a6ff&labelColor=0D1117"/>
+
+</div>
+
+---
+
+## /github_stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=2ee5a0&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" />
+
+</div>
+
+---
+
+## /activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spnazar&bg_color=0d1117&color=58a6ff&line=2ee5a0&point=a371f7&hide_border=true" />
+
+</div>
+
+---
+
+## /snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "systems should be boring in production"
+```
+
+<p style="color:#6e7681;font-family:'JetBrains Mono',monospace;">
+minimal dark • cyberpunk inspired • glassmorphism mood
 </p>
 
-<br>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&bg_color=0D1117&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117&hide_border=true">
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spnazar/spnazar/output/github-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/spnazar/spnazar/output/github-snake-dark.svg">
-</picture>
-
-<br>
-<br>
-
-<div align="center">
-  <samp>
-    <a href="https://t.me/spnazar" style="color:#58a6ff; text-decoration:none; border:1px solid #58a6ff; padding:6px 18px; border-radius:20px;">>_ telegram</a>
-    &nbsp;&nbsp;
-    <code style="background:#0D1117; padding:5px 12px; border:1px solid #2ee5a0; border-radius:20px; color:#2ee5a0;">$ npx spnazar</code>
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <samp style="color:#6e7681; font-size:12px">
-    — strict / clean / open —
-  </samp>
 </div>
