@@ -18,7 +18,7 @@
   ├──────────────────┤   role       backend engineer · sysadmin
   │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   focus      scalability & automation
   ├──────────────────┤   building   automation
-  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   learning   ЧТО ИЗУЧАЕШЬ
+  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   learning   AI
   ├──────────────────┤   location   Almaty · UTC+5
   │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   open to    ФРИЛАНС / РАБОТА
   └──────────────────┘   uptime     online
