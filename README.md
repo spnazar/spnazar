@@ -69,7 +69,7 @@ REST API интернет-магазина: каталог, корзина, за
 
 ### ▸ [eduflow-lms](https://github.com/spnazar/eduflow-lms)
 
-LMS-платформа: курсы,学ики, прогресс обучения.
+LMS-платформа: курсы, ученики, прогресс обучения.
 
 `Python` `Django`
 
@@ -105,23 +105,21 @@ LMS-платформа: курсы,学ики, прогресс обучения.
 </td>
 </tr>
 </table>
+</table>
+
 ## Статистика
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=8B9BAD" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=8B9BAD" alt="top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=8B9BAD&cache_seconds=86400" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=8B9BAD&cache_seconds=86400" alt="top languages" />
 
 </div>
-
-<!--
-  Змейка. Раскомментируй только после того, как workflow
-  .github/workflows/snake.yml отработает и создаст ветку output.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/spnazar/spnazar/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+<br/>
+<sub><code>$ tail -f ~/.motd</code> &nbsp;·&nbsp; keep building, keep shipping</sub>
 </div>
--->
 
 <div align="center">
 <br/>
