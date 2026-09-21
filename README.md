@@ -107,18 +107,14 @@ LMS-платформа: курсы, ученики, прогресс обуче�
 </table>
 </table>
 
-## Статистика
+## Профиль
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=spnazar&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=8B9BAD&cache_seconds=86400" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnazar&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=8B9BAD&cache_seconds=86400" alt="top languages" />
+<img src="https://img.shields.io/github/followers/spnazar?style=flat-square&labelColor=0B1118&color=38BDF8&logo=github&logoColor=38BDF8" alt="followers" />
+<img src="https://img.shields.io/badge/репозиториев-10-0B1118?style=flat-square&labelColor=0B1118&color=A78BFA" alt="repos" />
+<img src="https://img.shields.io/badge/основной_стек-Go%20%C2%B7%20Python%20%C2%B7%20PHP-0B1118?style=flat-square&labelColor=0B1118&color=2DD4BF" alt="stack" />
 
-</div>
-
-<div align="center">
-<br/>
-<sub><code>$ tail -f ~/.motd</code> &nbsp;·&nbsp; keep building, keep shipping</sub>
 </div>
 
 <div align="center">
