@@ -43,54 +43,68 @@
 
 ## Проекты
 
-<!--
-  Замени на реальные репозитории. Эти же четыре закрепи
-  на странице профиля через «Customize your pins».
--->
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ▸ [REPO_ONE](https://github.com/spnazar/REPO_ONE)
+### ▸ [shop-api](https://github.com/spnazar/shop-api)
 
-Какую задачу решает — одна-две строки без воды.
+REST API интернет-магазина: каталог, корзина, заказы.
 
-`Go` `PostgreSQL` `Docker`
+`Go` `PostgreSQL` `REST`
 
 </td>
 <td width="50%" valign="top">
 
-### ▸ [REPO_TWO](https://github.com/spnazar/REPO_TWO)
+### ▸ [notify-api](https://github.com/spnazar/notify-api)
 
-Одна-две строки.
+Сервис уведомлений с доставкой в Telegram.
 
-`Python` `Nginx`
+`Go` `PostgreSQL` `Telegram API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ▸ [REPO_THREE](https://github.com/spnazar/REPO_THREE)
+### ▸ [eduflow-lms](https://github.com/spnazar/eduflow-lms)
 
-Одна-две строки.
+LMS-платформа: курсы,学ики, прогресс обучения.
 
-`Bash` `systemd`
+`Python` `Django`
 
 </td>
 <td width="50%" valign="top">
 
-### ▸ [REPO_FOUR](https://github.com/spnazar/REPO_FOUR)
+### ▸ [my-library](https://github.com/spnazar/my-library)
 
-Одна-две строки.
+Веб-приложение для учёта прочитанных книг.
 
-`PHP` `Vue`
+`Python` `Django` `HTML`
 
 </td>
 </tr>
 </table>
 
+<sub>Ещё: <a href="https://github.com/spnazar/bottg">bottg</a> · <a href="https://github.com/spnazar/finova">finova</a> · <a href="https://github.com/spnazar/AIChat">AIChat</a> · <a href="https://github.com/spnazar/Nextweb-project">Nextweb-project</a></sub>
+
+## Опыт
+
+<table>
+<tr>
+<td valign="top">
+
+### ▸ Система электронного документооборота (ЭДО)
+
+Коммерческий проект. Разработка и поддержка backend-части системы ЭДО:
+маршрутизация и согласование документов, права доступа, интеграции.
+Фронтенд — SPA на Angular.
+
+`PHP` `Angular` `PostgreSQL`
+
+</td>
+</tr>
+</table>
 ## Статистика
 
 <div align="center">
