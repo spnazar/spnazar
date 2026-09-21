@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/telegram-0B1118?style=flat-square&labelColor=0B1118&logo=telegram&logoColor=38BDF8" alt="Telegram" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-0B1118?style=flat-square&labelColor=0B1118&logo=maildotru&logoColor=38BDF8" alt="Email" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/linkedin-0B1118?style=flat-square&labelColor=0B1118&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://t.me/f1yuu"><img src="https://img.shields.io/badge/telegram-0B1118?style=flat-square&labelColor=0B1118&logo=telegram&logoColor=38BDF8" alt="Telegram" /></a>
+<a href="mailto:spirin.nazar07@gmail.com"><img src="https://img.shields.io/badge/email-0B1118?style=flat-square&labelColor=0B1118&logo=maildotru&logoColor=38BDF8" alt="Email" /></a>
+<a href="https://linkedin.com/in/nazar-spirin-516644301"><img src="https://img.shields.io/badge/linkedin-0B1118?style=flat-square&labelColor=0B1118&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 
 </div>
 
