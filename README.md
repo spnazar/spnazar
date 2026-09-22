@@ -2,122 +2,42 @@
 
 <img src="https://raw.githubusercontent.com/spnazar/spnazar/main/assets/banner.svg" width="100%" alt="spnazar — backend engineer, sysadmin, automation" />
 
-<br/>
+<br/><br/>
 
-<a href="https://t.me/f1yuu"><img src="https://img.shields.io/badge/telegram-0B1118?style=flat-square&labelColor=0B1118&logo=telegram&logoColor=38BDF8" alt="Telegram" /></a>
-<a href="mailto:spirin.nazar07@gmail.com"><img src="https://img.shields.io/badge/email-0B1118?style=flat-square&labelColor=0B1118&logo=maildotru&logoColor=38BDF8" alt="Email" /></a>
-<a href="https://linkedin.com/in/nazar-spirin-516644301"><img src="https://img.shields.io/badge/linkedin-0B1118?style=flat-square&labelColor=0B1118&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://t.me/f1yuu"><img src="https://img.shields.io/badge/telegram-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=telegram&logoColor=38BDF8" alt="Telegram" /></a>
+<a href="mailto:spirin.nazar07@gmail.com"><img src="https://img.shields.io/badge/email-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=maildotru&logoColor=38BDF8" alt="Email" /></a>
+<a href="https://linkedin.com/in/nazar-spirin-516644301"><img src="https://img.shields.io/badge/linkedin-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/main/assets/whoami.svg" width="100%" alt="role, focus, location" />
 
-```
-  ┌──────────────────┐   spnazar@github
-  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   ──────────────────────────────────────
-  ├──────────────────┤   role       backend engineer · sysadmin
-  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   focus      scalability & automation
-  ├──────────────────┤   building   automation
-  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   learning   AI
-  ├──────────────────┤   location   Almaty · UTC+5
-  │ ▓▓▓▓▓▓▓▓▓▓▓▓   ● │   open to    ФРИЛАНС / РАБОТА
-  └──────────────────┘   uptime     online
-```
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/main/assets/stack.svg" width="100%" alt="tech stack" />
 
-## Стек
+<br/><br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/main/assets/projects.svg" width="100%" alt="projects" />
 
-<img src="https://skillicons.dev/icons?i=go,python,php,postgres,docker,nginx,linux,bash,git,react,vue&theme=dark" alt="stack" />
+<a href="https://github.com/spnazar/shop-api"><img src="https://img.shields.io/badge/shop--api-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=go&logoColor=2DD4BF" alt="shop-api" /></a>
+<a href="https://github.com/spnazar/notify-api"><img src="https://img.shields.io/badge/notify--api-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=go&logoColor=38BDF8" alt="notify-api" /></a>
+<a href="https://github.com/spnazar/eduflow-lms"><img src="https://img.shields.io/badge/eduflow--lms-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=django&logoColor=A78BFA" alt="eduflow-lms" /></a>
+<a href="https://github.com/spnazar/my-library"><img src="https://img.shields.io/badge/my--library-0B1118?style=flat-square&labelColor=0B1118&color=1E2C3A&logo=django&logoColor=2DD4BF" alt="my-library" /></a>
 
-</div>
+<br/><br/>
 
-<table>
-<tr><td><b>Backend</b></td><td>Go · REST API · микросервисы · Python · PHP</td></tr>
-<tr><td><b>Инфраструктура</b></td><td>Linux · Docker · Nginx · systemd · bash</td></tr>
-<tr><td><b>Данные</b></td><td>PostgreSQL</td></tr>
-<tr><td><b>Фронт при необходимости</b></td><td>React · Vue</td></tr>
-</table>
+<img src="https://raw.githubusercontent.com/spnazar/spnazar/main/assets/experience.svg" width="100%" alt="commercial experience" />
 
-## Проекты
+<br/><br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/spnazar/bottg"><img src="https://img.shields.io/badge/bottg-0B1118?style=flat-square&labelColor=0B1118&color=16222E&logo=python&logoColor=55708A" alt="bottg" /></a>
+<a href="https://github.com/spnazar/finova"><img src="https://img.shields.io/badge/finova-0B1118?style=flat-square&labelColor=0B1118&color=16222E&logo=javascript&logoColor=55708A" alt="finova" /></a>
+<a href="https://github.com/spnazar/AIChat"><img src="https://img.shields.io/badge/AIChat-0B1118?style=flat-square&labelColor=0B1118&color=16222E&logo=javascript&logoColor=55708A" alt="AIChat" /></a>
+<a href="https://github.com/spnazar/Nextweb-project"><img src="https://img.shields.io/badge/Nextweb--project-0B1118?style=flat-square&labelColor=0B1118&color=16222E&logo=nextdotjs&logoColor=55708A" alt="Nextweb-project" /></a>
 
-### ▸ [shop-api](https://github.com/spnazar/shop-api)
+<br/><br/>
 
-REST API интернет-магазина: каталог, корзина, заказы.
+<sub><code>$ tail -f ~/.motd</code> &nbsp;&#183;&nbsp; keep building, keep shipping</sub>
 
-`Go` `PostgreSQL` `REST`
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ [notify-api](https://github.com/spnazar/notify-api)
-
-Сервис уведомлений с доставкой в Telegram.
-
-`Go` `PostgreSQL` `Telegram API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ [eduflow-lms](https://github.com/spnazar/eduflow-lms)
-
-LMS-платформа: курсы, ученики, прогресс обучения.
-
-`Python` `Django`
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ [my-library](https://github.com/spnazar/my-library)
-
-Веб-приложение для учёта прочитанных книг.
-
-`Python` `Django` `HTML`
-
-</td>
-</tr>
-</table>
-
-<sub>Ещё: <a href="https://github.com/spnazar/bottg">bottg</a> · <a href="https://github.com/spnazar/finova">finova</a> · <a href="https://github.com/spnazar/AIChat">AIChat</a> · <a href="https://github.com/spnazar/Nextweb-project">Nextweb-project</a></sub>
-
-## Опыт
-
-<table>
-<tr>
-<td valign="top">
-
-### ▸ Система электронного документооборота (ЭДО)
-
-Коммерческий проект. Разработка и поддержка backend-части системы ЭДО:
-маршрутизация и согласование документов, права доступа, интеграции.
-Фронтенд — SPA на Angular.
-
-`PHP` `Angular` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-</table>
-
-## Профиль
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/spnazar?style=flat-square&labelColor=0B1118&color=38BDF8&logo=github&logoColor=38BDF8" alt="followers" />
-<img src="https://img.shields.io/badge/репозиториев-10-0B1118?style=flat-square&labelColor=0B1118&color=A78BFA" alt="repos" />
-<img src="https://img.shields.io/badge/основной_стек-Go%20%C2%B7%20Python%20%C2%B7%20PHP-0B1118?style=flat-square&labelColor=0B1118&color=2DD4BF" alt="stack" />
-
-</div>
-
-<div align="center">
-<br/>
-<sub><code>$ tail -f ~/.motd</code> &nbsp;·&nbsp; keep building, keep shipping</sub>
 </div>
